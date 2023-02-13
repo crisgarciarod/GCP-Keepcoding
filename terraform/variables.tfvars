@@ -1,0 +1,9 @@
+google_compute_network_red_name = "mi-red"
+google_compute_subnetwork_name = "mi-subred"
+google_compute_subnetwork_range = "10.2.0.0/24"
+random_string_number = 5
+google_storage_bucket_name = "mibucket"
+google_compute_address_name = "mi-ip"
+google_compute_address_type = "EXTERNAL"
+google_compute_instance_name = "mi-instancia"
+google_compute_instance_machine_type = "f1-micro"
